@@ -1,0 +1,20 @@
+{
+  "name": "nbck",
+  "version": "1.0.0",
+  "description": "on fait un brainback base sur nback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nback",
+    "express",
+    "(json",
+    "ou",
+    "mongod)",
+    "front",
+    "back"
+  ],
+  "author": "bedelo",
+  "license": "ISC"
+}
